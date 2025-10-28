@@ -1,8 +1,8 @@
  # Hi, I’m Saurabh Dwivedi 👋
 
-- 🌐 My Portfolio: [saurabhdevs.me]( https://lnkd.in/damsWU_6)
-- 📫 Contact me at: [saurabh19062003dwivedi@gmail.com](mailto:saurabhdwivedi2003sta@gmail.com)
-- 🧑‍💻 Currently working on: [Geo Data App](https://github.com/saurabh19062003dwivedi/AlgoDevFreaks)
+- 🌐 My Portfolio: [profile](https://saurabh19062003dwivedi.github.io/Portfolio-/)
+- 📫 Contact me at: [saurabhdwivedi2003sta@gmail.com](mailto:saurabhdwivedi2003sta@gmail.com)
+- 🧑‍💻 Currently working on: [AlgoDevFreaks](https://github.com/saurabh19062003dwivedi/AlgoDevFreaks)
 - ⚡ Learning: Solana, Web3, and DSA
 
 ---
@@ -25,6 +25,6 @@
 ---
 
 ### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabhdwivedi)
-[![Twitter](https://img.shields.io/badge/Twitter-black?logo=twitter&logoColor=1DA1F2)](https://twitter.com/saurabhdev)
+[![LinkedIn](www.linkedin.com/in/saurabh-dwivedi-608a24265)
+ 
 
